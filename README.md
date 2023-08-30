@@ -4,14 +4,14 @@ This repository contains my code for the AppleClone React Website, a project I c
 
 ## Components
 
-- **Header**: Displays the top navigation bar of the website.
-- **SectionOne**: Renders the first main section of the website.
-- **SectionTwo**: Displays the second main section with relevant content.
-- **SectionThree**: Renders the third main section of the website.
-- **SectionFour**: Displays the fourth main section with content.
-- **SectionFive**: Renders the fifth main section of the website.
-- **SectionSix**: Displays the final main section of the website.
-- **Footer**: Shows the bottom footer section of the website.
+- [Header](src/components/Header/Header.js): Displays the top navigation bar of the website.
+- [SectionOne](src/components/SectionOne/SectionOne.js): Renders the first main section of the website.
+- [SectionTwo](src/components/SectionTwo/SectionTwo.js): Displays the second main section with relevant content.
+- [SectionThree](src/components/SectionThree/SectionThree.js): Renders the third main section of the website.
+- [SectionFour](src/components/SectionFour/SectionFour.js): Displays the fourth main section with content.
+- [SectionFive](src/components/SectionFive/SectionFive.js): Renders the fifth main section of the website.
+- [SectionSix](src/components/SectionSix/SectionSix.js): Displays the final main section of the website.
+- [Footer](src/components/Footer/Footer.js): Shows the bottom footer section of the website.
 
 ## Getting Started
 
@@ -30,8 +30,7 @@ Contributions are not actively accepted for this project as it's primarily for d
 
 ## License
 
-This project is licensed under the MIT License.
-
+This project is licensed under the [MIT License](LICENSE).
 ---
 
 Disclaimer: AppleClone is a fictional project created for educational purposes and is not affiliated with, endorsed by, or sponsored by Apple Inc. The project solely demonstrates web development skills and is not intended for commercial use or distribution. Apple and the Apple logo are trademarks of Apple Inc.
