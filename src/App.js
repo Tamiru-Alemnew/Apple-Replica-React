@@ -6,6 +6,8 @@ import SectionThree from "./components/SectionThree/SectionThree";
 import SectionFour from "./components/SectionFour/SectionFour";
 import SectionFive from "./components/SectionFive/SectionFive";
 import SectionSix from "./components/SectionSix/SectionSix";
+import YouTube from "./components/YouTube/YouTube";
+import './App.css';
 
 function App() {
   return (
@@ -17,9 +19,13 @@ function App() {
        <SectionFour/>
        <SectionFive/>
        <SectionSix/>
+       <YouTube/>
        <Footer/>
     </div>
   );
 }
 
 export default App;
+
+
+// apple id UCE_M8A5yxnLfW0KghEeajjw
